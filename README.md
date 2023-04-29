@@ -13,5 +13,9 @@ The function of this program is to parse publishing data for Iowa State Universi
 ## Flowchart
 ![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup-cropped.svg)
 
-## input and output formats
+## Input and Output Formats
+### Input
 
+The input that CAlookup.py requires can be obtained by exporting data from Web of Science and Dimensions. Once acquired, place the input files in the same directory as CALookup.py and update the path in the code located in line 195 til line 222. The program will start running and once completed the program will notify you if further action is needed. For error messages such as "Error: Input College Data for:" you will need to update the dictionary libraries. Currently, the code does not know which library needs to be updated but this can be mitigated by knowing what needs to be expanded. First try to add the missing entry into the department dictionary and rerun the program.
+
+Note: 
