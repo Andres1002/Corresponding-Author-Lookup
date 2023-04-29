@@ -14,6 +14,7 @@ Corresponding author information may include items such as:
 
 ## Flowchart
 Here is a high level flowchart on how the program parses your input data. The image is in vector graphics located in the 'Assets' folder. feel free to zoom in if needed. Alternatively, the flowchart can be viewed using Canva. [Link Here](https://www.canva.com/design/DAFfzWXIe8g/-2TPMgztZjTi0NQSYZMRqA/edit?utm_content=DAFfzWXIe8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup-cropped.svg)
 
 ## Input and Output Formats
