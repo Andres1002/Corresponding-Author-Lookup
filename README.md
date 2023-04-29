@@ -4,8 +4,7 @@
 
 
 # Flowchart
-https://www.canva.com/design/DAFfzWXIe8g/-2TPMgztZjTi0NQSYZMRqA/edit?utm_content=DAFfzWXIe8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup.svg)
 
 # input and output formats
 
