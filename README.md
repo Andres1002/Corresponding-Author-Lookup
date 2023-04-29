@@ -4,7 +4,7 @@
 
 
 # Flowchart
-![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup.svg)
+![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup-cropped.svg)
 
 # input and output formats
 
