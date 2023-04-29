@@ -11,6 +11,7 @@ The function of this program is to parse publishing data for Iowa State Universi
 
 
 ## Flowchart
+Here is a high level flowchart on how the program parses your input data. The image is in vector graphics located in the 'Assets' folder. feel free to zoom in if needed
 ![Flowchart](https://github.com/Andres1002/Corresponding-Author-Lookup/blob/main/Assets/Block%20Diagram%20for%20CA%20Lookup-cropped.svg)
 
 ## Input and Output Formats
