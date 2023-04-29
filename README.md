@@ -27,3 +27,9 @@ The output is stored in Output/Masterlist.csv
 The output data can be analyzed straight from the excel spread sheet but I have created a website that lets you just drop the file in and see relevant Pi charts from the data.
 
 Website: [Click Here for Streamlit Website](https://andres1002-corresponding-author-lookup-commander-rbbd3j.streamlit.app/)
+
+Any questions can be sent to andres.batista2019@gmail.com
+
+Thank you!
+
+
